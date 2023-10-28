@@ -8,7 +8,6 @@
         url("../fonts/Vazir.ttf") format("truetype");
     /* Safari, Android, iOS */
 }
-
 body {
     font-family: "Vazir" !important;
     direction: rtl;
@@ -49,10 +48,6 @@ li{
 }
 .first-bg{
     background-image:url(../images/banner-bg.jpg);
-
-    /* background-color: rgb(45, 15, 47); */
-    /* background-color: #322275; */
-    /* background-image: url(../images/bg-stars-1.webp); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -73,16 +68,8 @@ li{
     transition: all .3s;
     color: #2a2a2a;
 }
-/* .this{
-    background-color: #7453fc;
-    color: #fff !important; 
-} */
 .menu a:hover{
-    /* background-color: #7453fc;
-    color: #fff; */
     color: #7453fc;
-    /* font-weight: bold; */
-    /* transition: all .3s; */
 }
 .my-photos img{
     border-radius: 50px;
@@ -102,10 +89,6 @@ li{
     padding: 80px 0px 90px 0px;
     position: relative;
 }
-.art img{
-    width: 500px;
-}
-
 .main-button a{
     font-size: 14px;
     color: #fff;
